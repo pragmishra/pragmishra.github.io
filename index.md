@@ -17,8 +17,14 @@
 		My undergraduate degree was in <a href="http://www.ecdept.iitkgp.ac.in/">Electronics and Electrical Communication Engineering</a> at <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology (IIT)</a>, India.
 		<br><br>
 		</div>	
+		
+		<div id="bio">	
+		<img src="figs/prag01.png" alt="Prag" width=160px>
+		<br><br><b>email:</b><br><a href="mailto:mishra.prag@gmail.com" style="color:rgb(163,31,52)">mishra.prag @ gmail</a><br><br>
+		</div>
 	</div>
 </div>
+	
 
 </body>
 
