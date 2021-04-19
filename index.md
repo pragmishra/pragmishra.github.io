@@ -17,17 +17,16 @@
 <body>
 
 <div id="container">
-  <div id="main">
-		
+  <div id="main">		
     <div id="intro">
-			<h2>Prag Mishra</h2>
-			Amazon
-			<br><br><br>
-			</a>.  
-			<br><br>I received my Ph.D. from <a href="http://web.mit.edu" style="color:rgb(163,31,52)">Carnegie Mellon</a> in 2005 where I worked with <a href="http://people.csail.mit.edu/wojciech/">Prof. Wojciech Matusik</a> at the Computer Science and Artificial Intelligence Lab (<a href="http://csail.mit.edu">CSAIL</a>).
-			<br><br>
-			Previously, I received my undergraduate degrees in Electrical Engineering and Mechanical Engineering at <a href="http://bits-pilani.ac.in">BITS Pilani</a>, India.
-			I completed my undergraduate theses at <a href="http://lmts.epfl.ch">Prof. Herbert Shea's group</a> at EPFL, Switzerland</a> and at <a href="http://www.fkf.mpg.de/kern">Prof. Klaus Kern's department</a> at the Max Planck Institute for Solid State Research, Germany.
+	<h2>Prag Mishra</h2>
+	Amazon
+	<br><br><br>
+		  
+	<br><br>I received my Ph.D. from <a href="http://cs.cmu.edu" style="color:rgb(163,31,52)">Carnegie Mellon</a> in 2005 where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/takeo-kanade/">Prof. Takeo Kanade</a> and <a href = "http://www.cs.cmu.edu/~amidi/"> Dr. Omead Amidi</a> at the <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>.
+	<br><br>
+	I received my undergraduate degree in <a href="http://www.ecdept.iitkgp.ac.in/">Electronics and Electrical Communication Engineering</a> at <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology (IIT)</a>, India.
+			
 		<br><br>
 		</div>	
 	
