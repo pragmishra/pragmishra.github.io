@@ -1,7 +1,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
 <head>
-<title>Prag Mishra</title>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 
 <link rel="stylesheet" href="csstemp.css" type="text/css" media="screen,projection" />
