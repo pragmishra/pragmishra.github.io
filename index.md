@@ -23,7 +23,7 @@
 		<br><br><br>	  
 		I received my Ph.D. from <a href="http://cs.cmu.edu" style="color:rgb(163,31,52)">Carnegie Mellon</a> in 2005 where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/takeo-kanade/">Prof. Takeo Kanade</a> and <a href = "http://www.cs.cmu.edu/~amidi/"> Dr. Omead Amidi</a> at the <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>.
 		<br><br>
-		I received my undergraduate degree in <a href="http://www.ecdept.iitkgp.ac.in/">Electronics and Electrical Communication Engineering</a> at <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology (IIT)</a>, India.
+		My undergraduate degree was in <a href="http://www.ecdept.iitkgp.ac.in/">Electronics and Electrical Communication Engineering</a> at <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology (IIT)</a>, India.
 		<br><br>
 		</div>	
 	</div>
