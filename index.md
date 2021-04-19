@@ -11,7 +11,7 @@
 <div id="container">
 	<div id="main">		
     		<div id="intro">
-		Amazon
+	
 		<br><br><br>
 		I am a generalist engineer and scientist, one who enjoys building new products from scratch. My interests include research and engineering leadership, robotics, industrial automation, machine learning, behavioral science, computer vision, statistical modeling, geospatial systems and mapping, and unmanned aerial systems. I received my Ph.D. from <a href="http://cs.cmu.edu" style="color:rgb(163,31,52)">Carnegie Mellon</a>, where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/takeo-kanade/">Prof. Takeo Kanade</a> and <a href = "http://www.cs.cmu.edu/~amidi/"> Dr. Omead Amidi</a> at the <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>.
 		<br><br>
