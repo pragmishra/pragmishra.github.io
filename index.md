@@ -10,7 +10,6 @@
 <div id="container">
 	<div id="main">		
     		<div id="intro">
-		<h2>Prag Mishra</h2>
 		Amazon
 		<br><br><br>	  
 		I received my Ph.D. from <a href="http://cs.cmu.edu" style="color:rgb(163,31,52)">Carnegie Mellon</a> in 2005 where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/takeo-kanade/">Prof. Takeo Kanade</a> and <a href = "http://www.cs.cmu.edu/~amidi/"> Dr. Omead Amidi</a> at the <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>.
