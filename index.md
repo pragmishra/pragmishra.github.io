@@ -5,12 +5,6 @@
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 
 <link rel="stylesheet" href="csstemp.css" type="text/css" media="screen,projection" />
-
-<style>
-#research td:nth-child(3) {
-  padding: 5px;
-}
-</style>
 </head>
 
 <body>
