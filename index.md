@@ -1,15 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-
 <head>
 <title>Prag Mishra</title>
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-
 <link rel="stylesheet" href="csstemp.css" type="text/css" media="screen,projection" />
 </head>
 
 <body>
 <div id="container">
-	<div id="main">		
+	<div id="main">	
     		<div id="intro">
 		<h2> Prag Mishra</h2>
 		Carnegie Mellon University | Xerox PARC | Microsoft | Amazon
@@ -19,13 +18,27 @@
 		My undergraduate degree was in <a href="http://www.ecdept.iitkgp.ac.in/">Electronics and Electrical Communication Engineering</a> at <a href="http://www.iitkgp.ac.in/">Indian Institute of Technology (IIT)</a>, India.
 		<br><br>
 		</div>	
+		
 		<div id="bio">	
-		<img src="images/Prag01.jpg" alt="Prag" width=160px>
-		<br><br><b>email:</b><br><a href="mailto:prag.mishra@live.com" style="color:rgb(163,31,52)">prag.mishra @ live</a><br><br>
+			<img src="images/Prag01.jpg" alt="Prag" width=160px>
+			
+			<br><br><b>email:</b><br><a href="mailto:prag.mishra@live.com" style="color:rgb(163,31,52)">prag.mishra @ live</a><br><br>
+			<b></b><br>Seattle, USA
 		</div>
 	</div>
 </div>
-	
+
+<div id="content">
+		<div id="research">
+			<h2>News</h2>
+			<br>
+			<br>
+			<h2>Papers</h2>
+			<hr>
+			<br>
+		</div>
+</div>
+			
 
 </body>
 
