@@ -17,9 +17,7 @@ a{
 	color: #467AA7;
 }
 
-a:link{
-  	text-decoration: none;
-}
+a:link{ text-decoration: none; }
 
 /**************** Content styles ****************/
 #container{
@@ -47,10 +45,6 @@ a:link{
 	color: #666;
 }
 
-#main a:link{
-	text-decoration:none;
-}
-
 #main a:hover{ 
 	color: inherit; 
 }
@@ -70,7 +64,6 @@ a:link{
 	background-color:#FFF;
 	text-align:justify;
 }
-
 
 #intro h2{
 	font-family: Candara,  Helvetica, Arial, sans-serif;
