@@ -12,8 +12,7 @@ background:#ffffff;
 }
 
 a{
-	text-decoration: none !important;
-	border-bottom: 1px dotted;
+	text-decoration: none;
 	color: #467AA7;
 }
 /**************** Content styles ****************/
