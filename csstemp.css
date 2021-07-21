@@ -17,7 +17,7 @@ a{
 	color: #467AA7;
 }
 
-a:link{ text-decoration: none}
+a:link{ text-decoration: none; }
 
 /**************** Content styles ****************/
 #container{
@@ -27,7 +27,6 @@ a:link{ text-decoration: none}
 	margin-left:auto;
 	margin-right:auto;
 }
-
 
 #main{
 	width: 800px;
