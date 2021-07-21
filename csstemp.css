@@ -4,11 +4,11 @@
 
 
 body{
-font-family: Tahoma, Geneva, Helvetica, Arial,sans-serif;
-line-height:1.2em;
-text-align:center;
-color:#303030;
-background:#ffffff;
+	font-family: Tahoma, Geneva, Helvetica, Arial,sans-serif;
+	line-height:1.2em;
+	text-align:center;
+	color:#303030;
+	background:#ffffff;
 }
 
 a{
@@ -17,8 +17,8 @@ a{
 	color: #467AA7;
 }
 
-a:link {
-  text-decoration: none ;
+a:link{
+  	text-decoration: none ;
 }
 
 /**************** Content styles ****************/
@@ -40,6 +40,24 @@ a:link {
 	background-color:#FFF;
 }
 
+#main a{ 
+	text-decoration: none; 
+	border-bottom: 1px dotted; 
+	color: #666;
+}
+
+#main a:hover{ 
+	color: inherit; 
+}
+
+#main p{
+	text-align:left
+}
+
+#main h1{
+	font-weight:bold
+}
+
 #intro{
 	width:65%;
 	padding: 40px 20px 20px 20px;
@@ -51,9 +69,8 @@ a:link {
 #intro h2{
 	font-family: Candara,  Helvetica, Arial, sans-serif;
 	font-weight:bold; 
-	font-size: 1.4em; }
-#main a{ text-decoration: none; border-bottom: 1px dotted; color: #666;}
-#main a:hover { color: inherit; }
+	font-size: 1.4em; 
+}
 
 #bio{
 	width:25%;
@@ -62,28 +79,28 @@ a:link {
 	text-align:left;
 	font:75% sans-serif;
 }
-#main p{text-align:left}
-#main h1{font-weight:bold}
 
 #content{
-float: center;
-width: 700px;
-background: #FFF;
-
+	float: center;
+	width: 700px;
+	background: #FFF;
 }
 
 #research{
-float: center;
-clear: both;
-width: 100%;
-padding: 0px 0px 0px 30px;
-font: 80% Tahoma, Geneva, Helvetica, Arial, sans-serif;
-background: #FFF;
-text-align: left;
+	float: center;
+	clear: both;
+	width: 100%;
+	padding: 0px 0px 0px 30px;
+	font: 80% Tahoma, Geneva, Helvetica, Arial, sans-serif;
+	background: #FFF;
+	text-align: left;
 }
 
 #research h2{
-padding: 0px 0px 0px 0px;text-align:left;font-weight: bold;font-size:1.2em; font-family: Tahoma , Helvetica, Arial, sans-serif; }
+	padding: 0px 0px 0px 0px;
+	text-align:left;font-weight: bold;font-size:1.2em; 
+	font-family: Tahoma , Helvetica, Arial, sans-serif; 
+}
 
 #research h3{
 	font-weight: normal;
@@ -91,9 +108,22 @@ padding: 0px 0px 0px 0px;text-align:left;font-weight: bold;font-size:1.2em; font
 	font-family: Tahoma, Geneva, Helvetica, Arial,sans-serif;
 }
 
-#research p{padding:0px 0px 0px 0px}
-#footer a{color:#0f0f0f; background-color:inherit;text-decoration:none; font-weight:bold}
-#footer a:hover{color:#3f3f3f; background-color:inherit;text-decoration:none;}
+#research p{
+	padding:0px 0px 0px 0px
+}
+
+#footer a{
+	color:#0f0f0f; 
+	background-color:inherit;
+	text-decoration:none; 
+	font-weight:bold;
+}
+
+#footer a:hover{
+	color:#3f3f3f; 
+	background-color:inherit;
+	text-decoration:none;
+}
 
 /**************** Misc classes and styles ****************/
 
