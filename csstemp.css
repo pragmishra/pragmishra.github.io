@@ -17,7 +17,9 @@ a{
 	color: #467AA7;
 }
 
-a:link{ text-decoration: none; }
+a:link{ 
+	text-decoration: none; 
+}
 
 /**************** Content styles ****************/
 #container{
@@ -46,6 +48,10 @@ a:link{ text-decoration: none; }
 
 #main a:hover{ 
 	color: inherit; 
+}
+
+#main a:link{ 
+	text-decoration: none; 
 }
 
 #main p{
