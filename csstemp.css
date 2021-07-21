@@ -13,8 +13,14 @@ background:#ffffff;
 
 a{
 	text-decoration: none;
+	border-bottom: 1px dotted;
 	color: #467AA7;
 }
+
+a:link {
+  text-decoration: none ;
+}
+
 /**************** Content styles ****************/
 #container{
 	background-color: white;
