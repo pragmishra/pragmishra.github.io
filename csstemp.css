@@ -46,6 +46,10 @@ a:link{
 	color: #666;
 }
 
+#main a:link{
+  	text-decoration: none ;
+}
+
 #main a:hover{ 
 	color: inherit; 
 }
