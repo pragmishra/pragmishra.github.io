@@ -46,10 +46,6 @@ a:link{
 	color: #666;
 }
 
-#main a:link{
-  	text-decoration: none ;
-}
-
 #main a:hover{ 
 	color: inherit; 
 }
@@ -68,6 +64,10 @@ a:link{
 	float:left;
 	background-color:#FFF;
 	text-align: justify;
+}
+
+#intro a:link{
+  	text-decoration: none ;
 }
 
 #intro h2{
