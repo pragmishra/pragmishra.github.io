@@ -17,21 +17,10 @@ a{
 	color: #467AA7;
 }
 
-a:link{ 
-	text-decoration: none; 
-}
-
-a:visited{ 
-	text-decoration: none; 
-}
-
-a:hover{ 
-	color: rgb(163,31,52); 
-}
-
-a:active{ 
-	text-decoration: none; 
-}
+a:link{ text-decoration: none; }
+a:visited{ text-decoration: none; }
+a:hover{ color: rgb(163,31,52); }
+a:active{ text-decoration: none; }
 
 /**************** Content styles ****************/
 #container{
@@ -42,17 +31,9 @@ a:active{
 	margin-right:auto;
 }
 
-#container a:link{ 
-	text-decoration: none; 
-}
-
-#container a:visited{ 
-	text-decoration: none; 
-}
-
-#container a:hover{ 
-	color: rgb(163,31,52); 
-}
+#container a:link{ text-decoration: none; }
+#container a:visited{ text-decoration: none; }
+#container a:hover{ color: rgb(163,31,52); }
 
 #main{
 	width: 800px;
@@ -94,9 +75,10 @@ a:active{
 	text-align:justify;
 }
 
-#intro a:link{ 
-	text-decoration: none; 
-}
+#intro a:link{ text-decoration: none; }
+#intro a:visited{ text-decoration: none; }
+#intro a:hover{ color: rgb(163,31,52); }
+#intro a:active{ text-decoration: none; }
 
 #intro h2{
 	font-family: Candara,  Helvetica, Arial, sans-serif;
