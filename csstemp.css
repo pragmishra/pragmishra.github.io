@@ -14,7 +14,6 @@ body{
 a{
 	text-decoration: none;
 	border-bottom: 1px dotted;
-	outline: none;
 	color: #467AA7;
 }
 
@@ -23,6 +22,10 @@ a:visited{ text-decoration: none; }
 a:hover{ color: rgb(163,31,52); }
 a:active{ text-decoration: none; }
 
+#noneall a{
+    text-decoration:none;
+}
+
 /**************** Content styles ****************/
 #container{
 	background-color: white;
@@ -30,7 +33,6 @@ a:active{ text-decoration: none; }
 	padding: 0px 10px 30px 10px;
 	margin-left:auto;
 	margin-right:auto;
-	outline: none;
 }
 
 #container a:link{ text-decoration: none; }
