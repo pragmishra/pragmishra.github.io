@@ -30,6 +30,10 @@ a:link{
 	margin-right:auto;
 }
 
+#container a:link{ 
+	text-decoration: none; 
+}
+
 #main{
 	width: 800px;
 	float:center;
@@ -117,7 +121,7 @@ a:link{
 }
 
 #research p{
-	padding:0px 0px 0px 0px
+	padding:0px 0px 0px 0px;
 }
 
 #footer a{
