@@ -25,6 +25,10 @@ a:visited{
 	text-decoration: none; 
 }
 
+a:hover{ 
+	color: rgb(163,31,52); 
+}
+
 a:active{ 
 	text-decoration: none; 
 }
