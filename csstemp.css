@@ -19,7 +19,7 @@ a{
 
 a:link{ text-decoration: none; }
 a:visited{ text-decoration: none; }
-a:hover{ color: rgb(163,31,52); text-decoration: underline; }
+a:hover{ color: rgb(163,31,52); }
 a:active{ text-decoration: none; }
 
 /**************** Content styles ****************/
@@ -33,7 +33,7 @@ a:active{ text-decoration: none; }
 
 #container a:link{ text-decoration: none; }
 #container a:visited{ text-decoration: none; }
-#container a:hover{ color: rgb(163,31,52); text-decoration: underline; }
+#container a:hover{ color: rgb(163,31,52); }
 
 #main{
 	width: 800px;
