@@ -21,6 +21,14 @@ a:link{
 	text-decoration: none; 
 }
 
+a:visited{ 
+	text-decoration: none; 
+}
+
+a:active{ 
+	text-decoration: none; 
+}
+
 /**************** Content styles ****************/
 #container{
 	background-color: white;
