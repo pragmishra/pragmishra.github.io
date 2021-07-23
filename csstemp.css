@@ -31,10 +31,6 @@ a:active{ text-decoration: none; }
 	margin-right:auto;
 }
 
-#container a:link{ text-decoration: none; }
-#container a:visited{ text-decoration: none; }
-#container a:hover{ color: rgb(163,31,52); }
-
 #main{
 	width: 800px;
 	float:center;
@@ -51,9 +47,6 @@ a:active{ text-decoration: none; }
 	color: #666;
 }
 
-#main a:link{ text-decoration: none; }
-#main a:hover{ color: inherit; }
-
 #main p{
 	text-align:left;
 }
@@ -69,11 +62,6 @@ a:active{ text-decoration: none; }
 	background-color:#FFF;
 	text-align:justify;
 }
-
-#intro a:link{ text-decoration: none; }
-#intro a:visited{ text-decoration: none; }
-#intro a:hover{ color: rgb(163,31,52); }
-#intro a:active{ text-decoration: none; }
 
 #intro h2{
 	font-family: Candara,  Helvetica, Arial, sans-serif;
