@@ -93,9 +93,8 @@ a:active{ text-decoration: none; }
 	clear: both;
 	width: 100%;
 	padding: 0px 0px 0px 30px;
-	font: 80% Tahoma, Geneva, Helvetica, Arial, sans-serif;
 	background: #FFF;
-	text-align: left;
+	text-align: justify;
 }
 
 #research h2{
