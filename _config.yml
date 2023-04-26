@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prag Mishra"
+title                    : "pragyan.ai"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Prag Mishra"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Prag Mishra"
   avatar           : "images/Prag02.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Seattle, Washington"
+  bio              : "Engineering and Science Leader"
+  location         : "Seattle, USA"
   email            : "prag.mishra @ live.com"
   links:
     - label: "Email"
